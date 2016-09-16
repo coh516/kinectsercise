@@ -1,0 +1,8 @@
+class BodySpinner() {
+  constructor() {
+
+  }
+
+  draw() {
+  }
+}

@@ -1,0 +1,7 @@
+class Floor() {
+  constructor () {
+  }
+  draw() {
+  }
+
+}

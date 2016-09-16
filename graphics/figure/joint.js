@@ -1,0 +1,8 @@
+class Joint {
+  constructor() {
+  }
+  draw() {
+
+  }
+
+}

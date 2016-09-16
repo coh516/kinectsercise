@@ -1,0 +1,7 @@
+/node_modules/*
+/three.js
+/three.js_
+/three.js_/*
+test.html
+npm-debug.log
+/lib/*

@@ -1,0 +1,10 @@
+class BoneSpinner() {
+  constructor() {
+
+  }
+
+  draw() {
+
+  }
+
+}
